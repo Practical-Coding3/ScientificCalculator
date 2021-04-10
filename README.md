@@ -45,3 +45,19 @@ Here are the strings:
     <string name="subtractText">-</string>
     <string name="decimalText">.</string>
     <string name="equalsText">=</string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="squareRootText">√</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="isPrimeFunctionText">prime</string>
